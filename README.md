@@ -1,6 +1,6 @@
-# Air Quality Streaming Application
+# EdgeFrame + Forgetful Forest: A Hybrid Learning Framework for Streaming Data
 
-A real-time air quality monitoring application that combines machine learning with live data streaming for environmental monitoring and analysis.
+This project introduces a hybrid learning framework combining EdgeFrame for dynamic feature correlation modeling and Forgetful Forest for adaptive, streaming data analysis. Together, they deliver high accuracy with low memory usage, enabling robust handling of evolving datasets. The approach has been validated on benchmark datasets with strong predictive performance.
 
 ##  Quick Start
 
